@@ -1,0 +1,55 @@
+# config/sources.json
+{
+  "sources": [
+    {
+      "name": "MIT Technology Review",
+      "rss_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+      "weight": 10
+    },
+    {
+      "name": "VentureBeat AI",
+      "rss_url": "https://venturebeat.com/ai/feed/",
+      "weight": 9
+    },
+    {
+      "name": "TechCrunch AI",
+      "rss_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "weight": 9
+    },
+    {
+      "name": "The Verge AI",
+      "rss_url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "weight": 8
+    },
+    {
+      "name": "Ars Technica",
+      "rss_url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "weight": 8
+    },
+    {
+      "name": "AI News",
+      "rss_url": "https://artificialintelligence-news.com/feed/",
+      "weight": 7
+    },
+    {
+      "name": "OpenAI Blog",
+      "rss_url": "https://openai.com/blog/rss.xml",
+      "weight": 10
+    },
+    {
+      "name": "Google AI Blog",
+      "rss_url": "http://googleresearch.blogspot.com/feeds/posts/default",
+      "weight": 9
+    },
+    {
+      "name": "Microsoft AI Blog",
+      "rss_url": "https://blogs.microsoft.com/ai/feed/",
+      "weight": 8
+    },
+    {
+      "name": "IEEE Spectrum AI",
+      "rss_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence",
+      "weight": 7
+    }
+  ]
+}
