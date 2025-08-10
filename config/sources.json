@@ -6,11 +6,6 @@
       "weight": 10
     },
     {
-      "name": "VentureBeat AI",
-      "rss_url": "https://venturebeat.com/ai/feed/",
-      "weight": 9
-    },
-    {
       "name": "TechCrunch AI",
       "rss_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "weight": 9
