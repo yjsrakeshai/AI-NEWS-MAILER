@@ -2,7 +2,7 @@ name: Daily AI News Mailer
 
 on:
   schedule:
-    - cron: '30 1 * * *'  # 10:00 PM IST daily
+    - cron: '35 04 * * *'  # 10:05 PM IST daily
   workflow_dispatch:
 
 jobs:
